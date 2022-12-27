@@ -1,0 +1,17 @@
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Maga_Zin.exe
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Maga_Zin.deps.json
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Maga_Zin.runtimeconfig.json
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Maga_Zin.dll
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Maga_Zin.pdb
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.csproj.AssemblyReference.cache
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.AssemblyInfoInputs.cache
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.AssemblyInfo.cs
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.csproj.CoreCompileInputs.cache
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.csproj.CopyComplete
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.dll
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\refint\Maga_Zin.dll
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.pdb
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\Maga_Zin.genruntimeconfig.cache
+C:\Users\shavuh1n\source\repos\Maga_Zin\Maga_Zin\obj\Debug\net6.0\ref\Maga_Zin.dll
